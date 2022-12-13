@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-ffmpeg-kit-mobile",
+  "version": "1.0.0",
+  "description": "FFmpeg Kit for Cordova",
+  "cordova": {
+    "id": "cordova-plugin-ffmpeg-kit-mobile",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "David Kurniawan",
+  "license": "MIT"
+}
